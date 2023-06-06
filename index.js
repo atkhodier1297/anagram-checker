@@ -23,6 +23,8 @@ const anagrams = (s1, s2) => {
     
     return true;
 
-    console.log(anagrams("cats", "stac"))
-    console.log(anagrams("dogs", "cats"))
+    
   };
+  
+  console.log(anagrams("cats", "stac"))
+  console.log(anagrams("dogs", "cats"))
